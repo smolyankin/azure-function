@@ -1,0 +1,17 @@
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\bin\Debug\net6.0\AzureFunction.Service.Impl.deps.json
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\bin\Debug\net6.0\AzureFunction.Service.Impl.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\bin\Debug\net6.0\AzureFunction.Service.Impl.pdb
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\bin\Debug\net6.0\AzureFunction.Domain.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\bin\Debug\net6.0\AzureFunction.Service.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\bin\Debug\net6.0\AzureFunction.Domain.pdb
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\bin\Debug\net6.0\AzureFunction.Service.pdb
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.csproj.AssemblyReference.cache
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.AssemblyInfoInputs.cache
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.AssemblyInfo.cs
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.csproj.CoreCompileInputs.cache
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.csproj.CopyComplete
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\refint\AzureFunction.Service.Impl.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\AzureFunction.Service.Impl.pdb
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service.Impl\obj\Debug\net6.0\ref\AzureFunction.Service.Impl.dll

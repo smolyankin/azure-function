@@ -1,0 +1,12 @@
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\bin\Debug\net6.0\AzureFunction.Service.deps.json
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\bin\Debug\net6.0\AzureFunction.Service.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\bin\Debug\net6.0\AzureFunction.Service.pdb
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\AzureFunction.Service.csproj.AssemblyReference.cache
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\AzureFunction.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\AzureFunction.Service.AssemblyInfoInputs.cache
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\AzureFunction.Service.AssemblyInfo.cs
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\AzureFunction.Service.csproj.CoreCompileInputs.cache
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\AzureFunction.Service.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\refint\AzureFunction.Service.dll
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\AzureFunction.Service.pdb
+C:\Users\zibo9\source\repos\AzureFunction\AzureFunction.Service\obj\Debug\net6.0\ref\AzureFunction.Service.dll

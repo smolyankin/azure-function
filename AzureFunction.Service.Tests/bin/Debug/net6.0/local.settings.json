@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    //"DefaultConnection": "Url=https://97ebf43f-a3a9-e44d-bad8-5213a600f44d.crm4.dynamics.com/api/data/v9.2/;AuthType=OAuth;UserId=SimonSmol@simontrial498.onmicrosoft.com;Password=als2956sla!;AppId=51f81489-12ee-4a9e-aaae-a2591f45987d;RedirectUri=app://58145B91-0C36-4500-8554-080854F2AC97;TokenCacheStorePath=c:\\MyTokenCache\\msal_cache.data;LoginPrompt=Auto;",
+    "DefaultConnection": "Url=https://org5eaddf28.api.crm4.dynamics.com/api/data/v9.2/;AuthType=OAuth;UserId=SimonSmol@simontrial498.onmicrosoft.com;Password=als2956sla!;AppId=51f81489-12ee-4a9e-aaae-a2591f45987d;RedirectUri=app://58145B91-0C36-4500-8554-080854F2AC97;TokenCacheStorePath=c:\\MyTokenCache\\msal_cache.data;LoginPrompt=Auto;",
+    "EnvironmentName": "unq48fcf2e7a46b4f74ac9aaf2ada4c8",
+    "EnvironmentId": "97ebf43f-a3a9-e44d-bad8-5213a600f44d",
+    "OrganizationId": "48fcf2e7-a46b-4f74-ac9a-af2ada4c84ec"
+  }
+}
